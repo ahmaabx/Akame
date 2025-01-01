@@ -9,15 +9,15 @@
     "keyAdminOnly": "",
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "",
+    "EMAILi": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝖆𝖐𝖆𝖒𝖎",
-    "PREFIX": "*",
+    "BOTNAME": "𝑨𝒏𝒊𝒎𝒆 𝑾𝒐𝒓𝒍𝒅",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100076269693499",
-        "",
-        ""
+        "61550232547706",
+        "MAHER.FOKS",
+        "61550232547706"
     ],
     "AppStateEncryption": true,
     "RestartEvery": "30",
