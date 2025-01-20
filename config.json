@@ -12,12 +12,12 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "★BOT ZAFER ᭄࿐★",
-    "PREFIX": "*",
+    "BOTNAME": "BOT miko",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "61550232547706",
-        "",
-        ""
+        "61556124276054",
+        "61556124276054",
+        "61556124276054"
     ],
     "AppStateEncryption": true,
     "RestartEvery": "30",
